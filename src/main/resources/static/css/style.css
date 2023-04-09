@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.pink-text {
+	color: lightpink; 
+}
+
+.pink-border {
+	border: 10px solid lightpink;
+}
